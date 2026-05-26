@@ -107,7 +107,7 @@ function FootnoteTooltip({ num, children }: { num: string; children: React.React
         <span
           ref={tooltipRef}
           id={`fn-desc-${num}`}
-          className="fixed sm:absolute z-50 bottom-4 sm:bottom-full left-4 sm:left-1/2 right-4 sm:right-auto sm:-translate-x-1/2 mb-0 sm:mb-2 w-auto sm:w-64 p-3.5 rounded-lg border border-divider/45 bg-background/95 backdrop-blur-md shadow-lg text-xs font-normal leading-relaxed text-charcoal animate-fade-in block"
+          className="fixed sm:absolute z-50 bottom-4 sm:bottom-full left-4 sm:left-1/2 right-4 sm:right-auto sm:-translate-x-1/2 mb-0 sm:mb-2 w-auto sm:w-64 p-3.5 rounded-lg border border-divider bg-parchment shadow-lg text-xs font-normal leading-relaxed text-charcoal animate-fade-in block"
           style={{
             fontFamily: "var(--font-inter)",
             boxShadow: "0 4px 20px rgba(0, 0, 0, 0.12)",
@@ -121,7 +121,7 @@ function FootnoteTooltip({ num, children }: { num: string; children: React.React
           <span className="block font-semibold text-cardinal mb-1">
             Chú thích {num}
           </span>
-          <span className="block text-ink/90">
+          <span className="block text-ink opacity-90">
             {explanation}
           </span>
         </span>

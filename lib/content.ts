@@ -207,4 +207,13 @@ Con người, với tất cả sự mong manh, giới hạn vật lý và khả 
 > **"Sự vĩ đại thực sự của nhân loại không nằm ở khả năng tạo ra các cỗ máy siêu việt có thể vượt mặt bộ não con người, mà nằm ở sự dũng cảm và kiên định duy trì bản sắc nhân bản thiêng liêng trước những thế lực công nghệ đang cố gắng định nghĩa lại nó."**
 
 *Magnifica Humanitas* để lại một thông điệp cuối cùng tràn đầy tính tiên tri, niềm hy vọng và thách thức: nhân loại tuyệt đối không được phép biến mình thành những khán giả cam chịu hay những sản phẩm phụ trước sự thống trị của các thuật toán.⁷ Thay vào đó, thông qua một phương thức tiếp cận hiệp hành, sự dũng cảm thiết lập một liên minh giáo dục hướng tới sự chừng mực (ăn chay AI), và sự kiên định liên đới với những người dễ bị tổn thương nhất, chúng ta được mời gọi mạnh mẽ từ chối việc đóng góp những viên gạch vào một Tháp Babel mới của sự kiêu ngạo kỹ thuật.⁸ Mục tiêu cuối cùng là cùng nhau kiến tạo và phục hồi một xã hội lấy tình người, sự thật và công lý làm cốt lõi.⁸
+
+## Nguồn Trích Dẫn & Tham Khảo
+
+1. Đức Giáo Hoàng Lêô XIII (1891). *Thông điệp Rerum Novarum (Tân Sự)*. Vatican.
+2. Đức Giáo Hoàng Phanxicô (2015). *Thông điệp Laudato Si' (Chúc Tụng Chúa)*. Vatican.
+3. Đức Giáo Hoàng Phanxicô (2020). *Thông điệp Fratelli Tutti (Tất cả anh em)*. Vatican.
+4. Bộ Giáo lý Đức tin (2026). *Tuyên ngôn về bảo vệ phẩm giá nhân vị trước đà tiến bộ kỹ thuật số*. Vatican.
+5. Hội đồng Tòa Thánh về Công lý và Hòa bình (2004). *Tóm lược Học thuyết Xã hội của Giáo hội Công giáo*.
+6. Anthropic AI (2026). *Báo cáo nghiên cứu về an toàn và định hướng đạo đức cho Mô hình Ngôn ngữ Lớn*. Thung lũng Silicon.
 `;

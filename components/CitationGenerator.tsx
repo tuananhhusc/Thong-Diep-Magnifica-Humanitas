@@ -36,7 +36,7 @@ export default function CitationGenerator({ metadata }: { metadata: ArticleMetad
 
       {isOpen && (
         <div className="fixed inset-0 z-[100] flex items-center justify-center bg-black/40 backdrop-blur-sm p-4">
-          <div className="bg-background rounded-xl shadow-2xl max-w-lg w-full p-6 border border-divider/50 animate-fade-in relative">
+          <div className="bg-background rounded-xl shadow-2xl max-w-lg w-full p-6 border border-divider animate-fade-in relative">
             <button
               onClick={() => setIsOpen(false)}
               className="absolute top-4 right-4 text-charcoal-light hover:text-cardinal bg-transparent border-none cursor-pointer"
@@ -49,7 +49,7 @@ export default function CitationGenerator({ metadata }: { metadata: ArticleMetad
             
             <div className="space-y-4">
               {Object.entries(citations).map(([format, text]) => (
-                <div key={format} className="p-3 bg-blockquote-bg rounded-lg border border-divider/40">
+                <div key={format} className="p-3 bg-blockquote-bg rounded-lg border border-divider">
                   <div className="flex items-center justify-between mb-2">
                     <span className="text-sm font-bold text-cardinal">{format}</span>
                     <button
