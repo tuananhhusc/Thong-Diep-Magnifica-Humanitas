@@ -1,0 +1,12 @@
+:HL["/Thong-Diep-Magnifica-Humanitas/_next/static/chunks/12s-k_0gx2tg1.css","style"]
+:HL["/Thong-Diep-Magnifica-Humanitas/_next/static/media/14e23f9b59180572-s.p.08.c8psu~gif9.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Thong-Diep-Magnifica-Humanitas/_next/static/media/2a65768255d6b625-s.p.14by5b4al-y~f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Thong-Diep-Magnifica-Humanitas/_next/static/media/2bbe8d2671613f1f-s.p.067x_6k0k23tk.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Thong-Diep-Magnifica-Humanitas/_next/static/media/391e53907fa6d8ec-s.p.09se41kx.zlna.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Thong-Diep-Magnifica-Humanitas/_next/static/media/3adc3f408d8054fb-s.p.0mslr.w4_87j..woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Thong-Diep-Magnifica-Humanitas/_next/static/media/5e5dfa9e86f764b8-s.p.0o9~3wzuvo.a_.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Thong-Diep-Magnifica-Humanitas/_next/static/media/70e3db2de7f94926-s.p.0~0iy9faq3424.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Thong-Diep-Magnifica-Humanitas/_next/static/media/83afe278b6a6bb3c-s.p.0q-301v4kxxnr.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Thong-Diep-Magnifica-Humanitas/_next/static/media/8c2eb9ceedecfc8e-s.p.0oeo8epbafgia.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/Thong-Diep-Magnifica-Humanitas/_next/static/media/e1ccd2766b08c828-s.p.0dd-~h-3wf1jt.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}},"staleTime":300,"buildId":"Bi31aQQD8JcMOBWqAXOjb"}
