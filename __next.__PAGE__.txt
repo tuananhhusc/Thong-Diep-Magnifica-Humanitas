@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[47257,["/Thong-Diep-Magnifica-Humanitas/_next/static/chunks/05gk.4vky4cq4.js","/Thong-Diep-Magnifica-Humanitas/_next/static/chunks/0bn7sb9dt40_4.js"],"ClientPageRoot"]
-3:I[31713,["/Thong-Diep-Magnifica-Humanitas/_next/static/chunks/05gk.4vky4cq4.js","/Thong-Diep-Magnifica-Humanitas/_next/static/chunks/0bn7sb9dt40_4.js","/Thong-Diep-Magnifica-Humanitas/_next/static/chunks/09jza01su1.1o.js"],"default"]
+3:I[31713,["/Thong-Diep-Magnifica-Humanitas/_next/static/chunks/05gk.4vky4cq4.js","/Thong-Diep-Magnifica-Humanitas/_next/static/chunks/0bn7sb9dt40_4.js","/Thong-Diep-Magnifica-Humanitas/_next/static/chunks/039p~55lm_yff.js"],"default"]
 6:I[97367,["/Thong-Diep-Magnifica-Humanitas/_next/static/chunks/05gk.4vky4cq4.js","/Thong-Diep-Magnifica-Humanitas/_next/static/chunks/0bn7sb9dt40_4.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/Thong-Diep-Magnifica-Humanitas/_next/static/chunks/09jza01su1.1o.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Bi31aQQD8JcMOBWqAXOjb"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/Thong-Diep-Magnifica-Humanitas/_next/static/chunks/039p~55lm_yff.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"CMpKQ9K68oFz6pLNp-Fz-"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
