@@ -53,6 +53,8 @@
 html {
   font-size: 16px;
   transition: font-size 0.3s ease;
+  overflow-x: hidden;
+  max-width: 100%;
 }
 
 html[data-text-size="large"] {
@@ -129,11 +131,16 @@ body {
   line-height: 1.7;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+  max-width: 100%;
 }
 
 /* --- Academic Paragraph Styling --- */
 .prose-article {
   font-family: var(--font-source-serif);
+  overflow-wrap: break-word;
+  word-break: break-word;
+  max-width: 100%;
 }
 
 .prose-article p {
@@ -503,11 +510,13 @@ body {
 /* --- Responsive Table Wrapper --- */
 .table-wrapper {
   width: 100%;
+  max-width: 100%;
   overflow-x: auto;
   -webkit-overflow-scrolling: touch;
   margin: 2.5rem 0;
   box-shadow: 0 2px 8px rgba(0,0,0,0.02);
   border-radius: 8px;
+  display: block;
 }
 
 /* --- Smooth Fade-in Animation --- */
@@ -580,10 +589,25 @@ body {
 
   .prose-article table {
     font-size: 0.875rem;
+    display: block;
+    max-width: 100%;
+  }
+
+  .prose-article thead,
+  .prose-article tbody {
+    display: block;
+    width: 100%;
   }
 
   .prose-article th,
   .prose-article td {
     padding: 0.75rem 0.875rem;
+    word-break: break-word;
+  }
+
+  /* Ensure all direct children don't overflow */
+  .prose-article > * {
+    max-width: 100%;
+    overflow-wrap: break-word;
   }
 }

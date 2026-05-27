@@ -16,7 +16,7 @@ interface ArticleBodyProps {
 
 export default function ArticleBody({ content }: ArticleBodyProps) {
   return (
-    <article className="w-full max-w-3xl mx-auto lg:mx-0" role="main" aria-label="Nội dung bài viết">
+    <article className="w-full lg:max-w-3xl" role="main" aria-label="Nội dung bài viết">
       <MarkdownRenderer content={content} />
     </article>
   );
