@@ -71,7 +71,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="vi" suppressHydrationWarning className={`h-full antialiased ${lora.variable} ${playfair.variable} ${inter.variable}`}>
-      <body className="min-h-full flex flex-col">
+      <body className="min-h-full flex flex-col overflow-x-hidden">
         <ThemeProvider
           attribute="class"
           defaultTheme="parchment"
